@@ -7,3 +7,4 @@ On va ensuite modifier depuis le local de n@l. C'est parti mon kiki après cette
 Bon, on voit pas la ligne sous typora, mais je la rajoute manuellement avec une balise hr
 <hr/>
 Modif faite par chessmooc après avoir mergé la modif de n@l
+test DiveGuillaume
